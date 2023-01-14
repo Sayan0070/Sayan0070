@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayan0070
-- 👀 I’m interested in ...Software Devalopment Engineering, & also i'm very passionate about data science
-- 🌱 I’m currently learning ...C,C++ with DSA
+- 👀 I’m very much passionate about Data science and Data Analytics and Machine Learning
+- 🌱 I’m currently learning ... Data Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sayan.bhattacharya91@gmail.com
 
